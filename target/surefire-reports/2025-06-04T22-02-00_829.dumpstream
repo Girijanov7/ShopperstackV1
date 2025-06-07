@@ -1,0 +1,5 @@
+# Created at 2025-06-04T22:02:00.989
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Page object model Framework design\Shopperstack\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

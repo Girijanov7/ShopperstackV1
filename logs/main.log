@@ -1,0 +1,36 @@
+2025-06-02 08:40:33,381 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-02 08:41:50,788 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-02 08:50:12,073 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-02 08:50:17,737 [main] INFO testCases.TC_001_SignUp_test - lunching welcome page and clicking Login btn
+2025-06-02 08:50:17,830 [main] INFO testCases.TC_001_SignUp_test - lunching Login page and clicking create acc btn
+2025-06-02 08:50:18,843 [main] INFO testCases.TC_001_SignUp_test - submiting register btn
+2025-06-02 08:50:20,336 [main] INFO testCases.TC_001_SignUp_test - compairing welcome msg
+2025-06-02 08:50:20,337 [main] INFO testCases.TC_001_SignUp_test - succesfully signin
+2025-06-03 07:59:19,207 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-03 08:10:57,238 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-03 08:12:04,352 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-03 18:47:09,891 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-03 20:41:44,925 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-03 20:42:36,191 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-03 20:43:13,642 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-03 20:43:59,622 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-03 20:44:58,298 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 18:25:11,295 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-04 18:26:13,966 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 18:26:58,607 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 18:27:02,951 [main] INFO testCases.TC_001_SignUp_test - lunching welcome page and clicking Login btn
+2025-06-04 18:27:03,038 [main] INFO testCases.TC_001_SignUp_test - lunching Login page and clicking create acc btn
+2025-06-04 18:27:04,028 [main] INFO testCases.TC_001_SignUp_test - submiting register btn
+2025-06-04 18:27:05,226 [main] INFO testCases.TC_001_SignUp_test - compairing welcome msg
+2025-06-04 18:27:05,228 [main] INFO testCases.TC_001_SignUp_test - succesfully signin
+2025-06-04 21:36:48,135 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 21:36:54,281 [main] INFO testCases.TC_001_SignUp_test - lunching welcome page and clicking Login btn
+2025-06-04 21:36:54,376 [main] INFO testCases.TC_001_SignUp_test - lunching Login page and clicking create acc btn
+2025-06-04 21:36:55,568 [main] INFO testCases.TC_001_SignUp_test - submiting register btn
+2025-06-04 21:37:05,599 [main] INFO testCases.TC_001_SignUp_test - compairing welcome msg
+2025-06-04 21:37:33,917 [main] INFO testCases.TC002_Login_test - Login test pass
+2025-06-04 21:38:25,322 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 21:39:31,170 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 21:58:33,043 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 22:00:01,932 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
+2025-06-04 22:02:06,752 [main] INFO testCases.TC_001_SignUp_test - starting TC_001_SignUp_test case
